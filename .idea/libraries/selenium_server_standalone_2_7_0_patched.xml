@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="selenium-server-standalone-2.7.0-patched">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../selenium-server-standalone-2.7.0-patched.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../selenium-server-standalone-2.7.0-patched.jar" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../selenium-server-standalone-2.7.0-patched.jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../selenium-server-standalone-2.7.0-patched.jar" recursive="false" type="SOURCES" />
+  </library>
+</component>

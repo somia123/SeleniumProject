@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64386" started-at="2018-08-20T20:35:06Z" finished-at="2018-08-20T20:36:11Z">
+    <groups>
+    </groups>
+    <test name="Test One" duration-ms="64386" started-at="2018-08-20T20:35:06Z" finished-at="2018-08-20T20:36:11Z">
+      <class name="com.selenium.testcases.Registration_failure">
+        <test-method status="PASS" signature="config()[pri:0, instance:com.selenium.testcases.Registration_failure@52af6cff]" name="config" is-config="true" duration-ms="315" started-at="2018-08-20T23:35:06Z" finished-at="2018-08-20T23:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="test01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.selenium.testcases.Registration_failure@52af6cff]" name="test01" duration-ms="48276" started-at="2018-08-20T23:35:07Z" data-provider="testdata" finished-at="2018-08-20T23:35:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bengaluru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Somia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chaudhry]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1990]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:com.selenium.testcases.Registration_failure@52af6cff]" name="testEasy" duration-ms="14791" started-at="2018-08-20T23:35:55Z" finished-at="2018-08-20T23:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.selenium.testcases.Registration_failure@52af6cff]" name="endReport" is-config="true" duration-ms="414" started-at="2018-08-20T23:36:10Z" finished-at="2018-08-20T23:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.selenium.testcases.Registration_failure -->
+    </test> <!-- Test One -->
+  </suite> <!-- Suite -->
+</testng-results>

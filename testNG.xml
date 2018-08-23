@@ -1,0 +1,9 @@
+<suite name="Suite" parallel="none">
+    <test name="Test One">
+        <classes>
+            <class name="com.selenium.testcases.Registration_failure"/>
+
+        </classes>
+    </test>
+   
+</suite>

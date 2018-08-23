@@ -1,0 +1,6 @@
+com\selenium\testcases\ExtentManager.class
+com\selenium\business\DatePicker.class
+com\selenium\page\Registration_page.class
+com\selenium\testcases\DataDriven.class
+com\selenium\business\Registration_logic.class
+com\selenium\testcases\Registration_failure.class
